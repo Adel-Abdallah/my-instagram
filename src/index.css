@@ -106,6 +106,7 @@ label:hover {
   background: rgba(0, 0, 0, 0.5);
 }
 .backdrop img {
+  object-fit: cover;
   display: block;
   max-width: 60%;
   max-height: 80%;
